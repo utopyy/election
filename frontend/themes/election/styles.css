@@ -1,0 +1,18 @@
+@import url('./main-layout.css');
+@import url('./views/inscription-view.css');
+@import url('./views/connexion-view.css');
+@import url('./views/profil-view.css');
+@import url('./views/utilisateurs-view.css');
+@import url('./views/historique-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+@import url('@fontsource/pt-sans');    html {
+      --lumo-primary-color-50pct: hsla(179, 10%, 45%, 0.5);
+      --lumo-primary-color-10pct: hsla(179, 10%, 45%, 0.1);
+      --lumo-primary-color: hsl(179, 10%, 45%);
+--lumo-font-family: PT Sans;
+
+    }
+
+    [theme~="dark"] {
+
+    }
